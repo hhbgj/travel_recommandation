@@ -1,4 +1,4 @@
-已在pythonanywhere上传项目
+已上传项目在pythonanywhere托管
 
 可在 https://jeremyli123.pythonanywhere.com 直接访问 
 
